@@ -1,0 +1,143 @@
+/*===== Background Color =====*/
+.theme-btn,
+.black-btn:hover,
+.cmpr-btn,
+.cart-btn:hover,
+.date,
+.pagination ul li.active > a,
+.pagination ul li:hover > a,
+.pagination > ul li span,
+.pagination > ul li.next.active > a, 
+.pagination > ul li.prev.active > a,
+.pagination > ul li.next:hover > a, 
+.pagination > ul li.prev:hover > a,
+.gallery-filters-list > li a::before,
+.info-item:before,
+.social-btns2 > li a:hover,
+.title1:before,
+.comment-reply-link:hover,
+.fil-btn,
+.img-dv > a,
+.cart-bottom,
+.your-payment-method,
+nav > ul ul li:hover:before,
+nav > ul ul li::after,
+.coloured-bg,
+.search-form > button,
+.res-menu-btn,
+.responsive-menu,
+.signup-inner form button,
+.signup-cls:hover,
+.free-quot,
+.subscribe-form > button,
+ul.countdown > li
+{
+    background:#eb5938;
+}
+
+
+
+/*===== Font Color =====*/
+.topbar ul li i,
+.topbar ul li a:hover,
+nav > ul > li:hover > a,
+.whu-choos1 > span,
+.whu-choos1 > h2 a:hover,
+.title-inner > span,
+.title-inner > h4 span,
+.service-info > h2 a:hover,
+.sbtl span,
+.price ins,
+.featured-product-info > h2 a:hover,
+.product-cate > a:hover,
+.product-info > h2 a:hover,
+.post-meta > li a:hover,
+.recentnews-info > h2 a:hover,
+.for-contact > h4 span,
+.widget-title > span,
+.widget ul li:hover:before,
+.widget ul li:hover > a,
+.contact-widget ul li > i,
+.contact-widget ul li > strong,
+.contact-widget ul li > a:hover,
+.bottom-bar p a,
+.gallery-item-info > i,
+.gallery-item-info > h2 a:hover,
+.plus-btn:hover,
+.about-info > h4 span,
+.fun-fact > span,
+.about-video > a,
+.member-info > i,
+.social-btns > li a:hover,
+.member-info > h2 a:hover,
+.info-item > i,
+.review-btn,
+.single-post-detail > ul li::before,
+blockquote span,
+.next-prev-posts > div h2:hover,
+.comment-detail > h2 a:hover,
+.pro-title > h2 a:hover,
+.total-price,
+.dnt-hv-acunt,
+nav > ul ul li:hover > a,
+.search-found-innr > strong span,
+.res-cont > li i,
+.res-sign > a:hover,
+.signup-inner form a:hover,
+.error-page-inner > span,
+.welcome-sec > span,
+.welcome-sec > h3 span,
+.title-3 > span,
+.title-3 h4 span,
+.recent-info > h4:hover,
+.categories > ul li a:hover,
+.client-name > i,
+.recent-post-info > h2 a:hover,
+.video-thumb > a
+{
+    color:#eb5938;
+}
+
+
+
+/*===== Border Color =====*/
+.cart-btn:hover,
+.pagination ul li.active > a,
+.pagination ul li:hover > a,
+.pagination > ul li span,
+.pagination > ul li.next.active > a, 
+.pagination > ul li.prev.active > a,
+.pagination > ul li.next:hover > a, 
+.pagination > ul li.prev:hover > a,
+.fil-btn
+{
+    border-color:#eb5938;
+}
+
+/*===== Border Left Color =====*/
+
+{
+    border-left-color: #eb5938;
+}
+
+/*===== Border Right Color =====*/
+
+{
+    border-right-color: #eb5938;
+}
+
+/*===== Border Top Color =====*/
+
+{
+    border-top-color: #eb5938;
+}
+
+/*===== Border Bottom Color =====*/
+.ftr-gal,
+.plus-btn::before
+{
+    border-bottom-color: #eb5938;
+}
+
+
+
